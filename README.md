@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Denlen
-- 👀 I’m interested in Back-end
-- 🌱 I’m currently learning Laravel, Python
+- 👀 I’m interested in Back-end/Blockchain
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me writeyu@gmail.com
 
